@@ -1,0 +1,224 @@
+body{
+    background-image: url(champions.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+nav.navbar{
+    background:transparent;
+}
+
+ul.navbar.nav{
+    align-items: center;
+}
+
+img.brand{
+
+    width: 3rem;
+
+}
+
+h1.navbar-brand{
+    color: black;
+    font-style:initial;
+}
+
+    
+
+div.card{
+    background-color: darkblue;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+p.note{
+    color: whitesmoke;
+    margin-left: 50px;
+    background-color: darkblue;
+    width: 50%;
+}
+
+div#Ajax{
+    
+    background-color: darkblue;
+    color: whitesmoke;
+    margin-top: 50px;
+    margin: 50px;
+    width: 42rem;
+   
+    
+}
+
+a#Wikipedia{
+    color:violet;
+}
+
+div#History{
+
+    width: 42rem;
+}
+
+div#Anthem{
+
+    width: 95%;
+
+}
+
+div.card.container.anthem{
+
+    
+    margin-top: 15px;
+    width: 140%;
+    
+}
+
+h3.Clublist{
+
+    margin-top: 50px;
+    color: whitesmoke;
+    font-weight: bold;
+    text-align: center;
+    margin: 50px;
+
+}
+
+div.card{
+
+    background-color: darkblue;
+    width: 50%;
+    
+}
+
+h1.Maintitle{
+    
+    color: black;
+    margin-top: 15x;
+    font-weight: bolder;
+
+}
+
+ol.club-items{
+
+    color: whitesmoke;
+    font-weight: bold;
+    
+
+}
+
+div.card.ms-5{
+
+    width: 100%;
+
+}
+
+div.card.club{
+
+    width: 90%;
+
+}
+
+h4.card-title{
+
+color: whitesmoke;
+
+}
+
+
+h1#HistoryUCL{
+
+    color: black;
+    font-weight: bolder;
+
+}
+
+
+h1.statstitle{
+
+    color: black;
+    font-weight: bolder;
+
+}
+
+div#Stats{
+
+    color: whitesmoke;
+    font-weight: bold;
+    margin-top: 15px;
+    width: 85%;
+
+}
+
+h4.STitle{
+    font-weight: bold;
+    margin-top: 12px;
+}
+
+div#LM10{
+
+    width:85% ;
+    margin-top: 2%;
+}
+
+div#CR7{
+
+    margin-top: 2%;
+}
+
+h4#Assist{
+
+    font-weight: bold;
+}
+ 
+h5.ASSIST{
+
+    font-weight: bold;
+}
+
+p.ASSIST{
+
+    font-weight: bold;
+
+}
+
+h1#Trophy{
+
+    font-weight: bolder;
+
+}
+
+
+
+h5#TrophyTitle{
+
+    margin-top: 8%;
+    font-weight: bolder;
+}
+
+div.card-img-overlay{
+
+    font-weight: bolder;
+    width: 50%;
+    margin-top: 5%;
+    margin: 2%;
+
+}
+
+nav#Down{
+
+    background-color: darkblue;
+    padding: 110px;
+    margin-top: 3%;
+    width: 95%;
+    border-radius: 10px 12px;
+    border: none;
+    margin-bottom: 1%;
+    
+    
+}
